@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 
+#acknowledge -- this is an incomplete version with some mistakes--
+
 author: Kostas Vogiatzis
-AM   :  2008030057  
-mail :  kvogiat@gmail.com
 
 info used :
     csrc.nist.gov/publications/fips/fips197/fips-197.pdf
