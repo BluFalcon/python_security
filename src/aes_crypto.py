@@ -448,12 +448,3 @@ k=a.myDecrypt(t,"CBC",my_key,4)
 #a.InvMixColumns(r)
 
 
-
-
-#EKDOSI GIA NA MHN XA8EI I PRO8ESMIA
-
-
-
-
-
-
